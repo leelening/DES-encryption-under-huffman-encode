@@ -2,7 +2,7 @@
 
 * Introduction
 
-This project was done when I was undergraduate student, the code was well written and organized. But what this code did was basically that it uesed DES encryption method to encrypt a image and then use the Huffman code to encode the output from the encryption.
+ This project was done when I was undergraduate student, the code was well written and organized. But what this code did was basically that it uesed DES encryption method to encrypt a image and then use the Huffman code to encode the output from the encryption.
 
 * Instructions
 
