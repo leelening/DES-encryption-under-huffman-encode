@@ -190,19 +190,4 @@ Academic use only.
 ## Author
 
 **Lening Li**
-- B.S. in Computer Science (Harbin Institute of Technology, 2014)
-- M.S. in Computer Science (WPI, 2016)
-- M.S. in Robotics Engineering (WPI, 2018)
-- Ph.D. in Robotics Engineering (WPI, 2022)
-
-## Acknowledgments
-
-- Harbin Institute of Technology instructors
-- Cryptography course materials
-- Classic algorithm textbooks
-
-## References
-
-- FIPS 46-3: Data Encryption Standard (DES)
-- Huffman, D. A. (1952). A Method for the Construction of Minimum-Redundancy Codes. *Proceedings of the IRE*.
-- Stallings, W. *Cryptography and Network Security: Principles and Practice*
+- GitHub: [@leelening](https://github.com/leelening)
